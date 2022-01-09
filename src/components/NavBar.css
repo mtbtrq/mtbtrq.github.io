@@ -1,0 +1,33 @@
+.links, a {
+  display: inline;
+  text-align: right;
+  margin: 5px;
+  list-style-type: none;
+  padding: 10px;
+  outline: none;
+  transition: 0.2s;
+  color: white;
+}
+
+a:hover {
+  color: #39adad;
+  text-decoration: none;
+}
+
+#mainUl {
+  width: 99%;
+  background-color: #151515;
+  padding: 10px 5px;
+  border-bottom: 2px solid #696969;
+}
+
+.link:any-link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#navbar {
+  margin: 0px 0px;
+  border: 0px;
+  padding-left: 10px;
+}

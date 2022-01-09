@@ -1,0 +1,12 @@
+.project {
+    margin-bottom: 10px;
+    text-decoration: none;
+}   
+
+#mainProjectsTitle {
+    margin-bottom: 40px;
+}
+
+#projectUl{
+    list-style: none;
+}
