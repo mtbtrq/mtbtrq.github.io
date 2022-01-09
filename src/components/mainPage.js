@@ -15,7 +15,6 @@ function MainPage() {
                 <ul>
                     <li className="languages">CSS</li>
                     <li className="languages">HTML</li>
-                    <li className="languages">Java</li>
                     <li className="languages">Python</li>
                     <li className="languages">JavaScript</li>
               </ul>
