@@ -15,7 +15,7 @@ function Projects() {
                 <li><a className="project" href="https://github.com/mutyyab/ChatApplication">A Full-Stack Chat Application.</a></li>
                 <li><a className="project" href="https://github.com/mutyyab/password-generator">A super secure password generator</a></li>
                 <li><a className="project" href="https://github.com/mutyyab/Qui">Qui - A Hypixel Stats Checking App</a></li>
-                <li><a className="project" href="https://github.com/mutyyab/MinecraftStatsBot">A In-Game Hypixel Statistics Checker</a></li>
+                <li><a className="project" href="https://github.com/mutyyab/MinecraftStatsBot">An In-Game Hypixel Statistics Checker</a></li>
                 <li><a className="project" href="https://github.com/mutyyab/UtilityBot">A Utility Bot for you to host / edit</a></li>
                 <li><a className="project" href="https://github.com/mutyyab/MusicPlayer">A Music Playing application made using Java</a></li>
                 <li><a className="project" href="https://github.com/mutyyab/LoginSystem">A Full-Stack Login System template, free to use.</a></li>
