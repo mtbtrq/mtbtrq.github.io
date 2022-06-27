@@ -7,7 +7,7 @@ function MainPage() {
             <div id="about">
                 <h1 id="mainTitle">About</h1>
                 <p>Hey, I'm Mutayyab and I develop things in my free time.</p>
-                <p>Programming is one of the things I do to escape the miserable but inevitable reality that encloses us</p>
+                <p>Programming is one of the things I do to escape the miserable but inevitable reality that encloses the world around us</p>
             </div>
 
             <div id="languages">
