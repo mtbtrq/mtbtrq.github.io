@@ -23,7 +23,7 @@ function MainPage() {
             <div id="socials">
                 <h1 id="socialsTitle">Socials</h1>
                 <p>Github: @mutyyab</p>
-                <p>Discord: Mutyyab.#4275</p>
+                <p>Discord: mutyyab</p>
             </div>
         </div>
     )
